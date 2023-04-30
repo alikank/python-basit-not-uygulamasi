@@ -17,6 +17,9 @@ python text based simple note application<br>
 
 ## Örnek notlar.txt dosyası
 
+#### Notların başındaki sayılar dinamik olarak atanır, kullanıcı sadece not girer.
+
+
 #### Mevcut Hali
 
 ```http
@@ -43,5 +46,4 @@ python text based simple note application<br>
 14 test14
 ```
 
-#### Notların başındaki sayılar dinamik olarak atanır, kullanıcı sadece not girer.
 
