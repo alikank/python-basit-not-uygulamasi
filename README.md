@@ -20,7 +20,7 @@ python text based simple note application<br>
 #### Notların başındaki sayılar dinamik olarak atanır, kullanıcı sadece not girer.
 
 
-#### Mevcut Hali
+#### Mevcut Hali (notlar.txt) :
 
 ```http
 7 test7
@@ -34,7 +34,7 @@ python text based simple note application<br>
 
 ```
 
-#### Silme İşlemi Sonrası
+#### Silme İşlemi Sonrası (notlar.txt) :
 
 ```http
 7 test7
